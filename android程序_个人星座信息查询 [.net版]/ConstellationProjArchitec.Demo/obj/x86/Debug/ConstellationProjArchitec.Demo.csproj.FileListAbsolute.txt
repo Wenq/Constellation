@@ -1,0 +1,48 @@
+E:\Code2010\Wpf_Study\ConstellationProjArchitec.Demo\bin\Debug\ConstellationProjArchitec.Demo.exe
+E:\Code2010\Wpf_Study\ConstellationProjArchitec.Demo\bin\Debug\ConstellationProjArchitec.Demo.pdb
+E:\Code2010\Wpf_Study\ConstellationProjArchitec.Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Code2010\Wpf_Study\ConstellationProjArchitec.Demo\obj\x86\Debug\MainWindow.baml
+E:\Code2010\Wpf_Study\ConstellationProjArchitec.Demo\obj\x86\Debug\MainWindow.g.cs
+E:\Code2010\Wpf_Study\ConstellationProjArchitec.Demo\obj\x86\Debug\App.g.cs
+E:\Code2010\Wpf_Study\ConstellationProjArchitec.Demo\obj\x86\Debug\ConstellationProjArchitec.Demo_MarkupCompile.cache
+E:\Code2010\Wpf_Study\ConstellationProjArchitec.Demo\obj\x86\Debug\ConstellationProjArchitec.Demo.g.resources
+E:\Code2010\Wpf_Study\ConstellationProjArchitec.Demo\obj\x86\Debug\ConstellationProjArchitec.Demo.Properties.Resources.resources
+E:\Code2010\Wpf_Study\ConstellationProjArchitec.Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Code2010\Wpf_Study\ConstellationProjArchitec.Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Code2010\Wpf_Study\ConstellationProjArchitec.Demo\obj\x86\Debug\ConstellationProjArchitec.Demo.exe
+E:\Code2010\Wpf_Study\ConstellationProjArchitec.Demo\obj\x86\Debug\ConstellationProjArchitec.Demo.pdb
+E:\Code2010\Wpf_Study\ConstellationProjArchitec.Demo\bin\Debug\ConstellationProjArchitec.dll
+E:\Code2010\Wpf_Study\ConstellationProjArchitec.Demo\bin\Debug\ConstellationProjArchitec.pdb
+C:\Users\Administrator\Desktop\Wpf_Study\ConstellationProjArchitec.Demo\obj\x86\Debug\ConstellationProjArchitec.Demo.exe
+C:\Users\Administrator\Desktop\Wpf_Study\ConstellationProjArchitec.Demo\obj\x86\Debug\ConstellationProjArchitec.Demo.pdb
+C:\Users\Administrator\Desktop\Wpf_Study\ConstellationProjArchitec.Demo\bin\Debug\ConstellationProjArchitec.Demo.exe
+C:\Users\Administrator\Desktop\Wpf_Study\ConstellationProjArchitec.Demo\bin\Debug\ConstellationProjArchitec.Demo.pdb
+C:\Users\Administrator\Desktop\Wpf_Study\ConstellationProjArchitec.Demo\bin\Debug\ConstellationProjArchitec.dll
+C:\Users\Administrator\Desktop\Wpf_Study\ConstellationProjArchitec.Demo\bin\Debug\ConstellationProjArchitec.pdb
+C:\Users\Administrator\Desktop\Wpf_Study\ConstellationProjArchitec.Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Wpf_Study\ConstellationProjArchitec.Demo\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Wpf_Study\ConstellationProjArchitec.Demo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Wpf_Study\ConstellationProjArchitec.Demo\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Wpf_Study\ConstellationProjArchitec.Demo\obj\x86\Debug\ConstellationProjArchitec.Demo_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Wpf_Study\ConstellationProjArchitec.Demo\obj\x86\Debug\ConstellationProjArchitec.Demo.g.resources
+C:\Users\Administrator\Desktop\Wpf_Study\ConstellationProjArchitec.Demo\obj\x86\Debug\ConstellationProjArchitec.Demo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Wpf_Study\ConstellationProjArchitec.Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Wpf_Study\ConstellationProjArchitec.Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\ConstellationProjArchitec.Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\ConstellationProjArchitec.Demo\obj\x86\Debug\MainWindow.baml
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\ConstellationProjArchitec.Demo\obj\x86\Debug\MainWindow.g.cs
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\ConstellationProjArchitec.Demo\obj\x86\Debug\App.g.cs
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\ConstellationProjArchitec.Demo\obj\x86\Debug\ConstellationProjArchitec.Demo_MarkupCompile.cache
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\ConstellationProjArchitec.Demo\obj\x86\Debug\ConstellationProjArchitec.Demo.g.resources
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\ConstellationProjArchitec.Demo\obj\x86\Debug\ConstellationProjArchitec.Demo.Properties.Resources.resources
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\ConstellationProjArchitec.Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\ConstellationProjArchitec.Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\ConstellationProjArchitec.Demo\obj\x86\Debug\ConstellationProjArchitec.Demo.exe
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\ConstellationProjArchitec.Demo\bin\Debug\ConstellationProjArchitec.Demo.exe
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\ConstellationProjArchitec.Demo\bin\Debug\ConstellationProjArchitec.Demo.pdb
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\ConstellationProjArchitec.Demo\bin\Debug\ConstellationProjArchitec.dll
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\ConstellationProjArchitec.Demo\bin\Debug\HtmlAgilityPack.dll
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\ConstellationProjArchitec.Demo\bin\Debug\ConstellationProjArchitec.pdb
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\ConstellationProjArchitec.Demo\bin\Debug\HtmlAgilityPack.pdb
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\ConstellationProjArchitec.Demo\bin\Debug\HtmlAgilityPack.xml
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\ConstellationProjArchitec.Demo\obj\x86\Debug\ConstellationProjArchitec.Demo.pdb

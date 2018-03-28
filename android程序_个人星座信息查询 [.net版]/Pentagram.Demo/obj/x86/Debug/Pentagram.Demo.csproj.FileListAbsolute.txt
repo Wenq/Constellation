@@ -1,0 +1,13 @@
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\Pentagram.Demo\bin\Debug\Pentagram.Demo.exe
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\Pentagram.Demo\bin\Debug\Pentagram.Demo.pdb
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\Pentagram.Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\Pentagram.Demo\obj\x86\Debug\MainWindow.baml
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\Pentagram.Demo\obj\x86\Debug\MainWindow.g.cs
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\Pentagram.Demo\obj\x86\Debug\App.g.cs
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\Pentagram.Demo\obj\x86\Debug\Pentagram.Demo_MarkupCompile.cache
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\Pentagram.Demo\obj\x86\Debug\Pentagram.Demo.g.resources
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\Pentagram.Demo\obj\x86\Debug\Pentagram.Demo.Properties.Resources.resources
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\Pentagram.Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\Pentagram.Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\Pentagram.Demo\obj\x86\Debug\Pentagram.Demo.exe
+F:\_Code_Manage\GoogleMdCodeByWQ\Constellation\android程序_个人星座信息查询 [.net版]\Pentagram.Demo\obj\x86\Debug\Pentagram.Demo.pdb

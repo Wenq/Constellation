@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "android程序_个人星座信息查询 [.net版]", "android程序_个人星座信息查询 [.net版]\android程序_个人星座信息查询 [.net版].csproj", "{E4965D64-80ED-4EBD-8519-24C0929B6419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlAgilityPack.Demo", "..\HtmlAgilityPack.Demo\HtmlAgilityPack.Demo\HtmlAgilityPack.Demo.csproj", "{E4E392F2-083E-4A1B-ADC5-1558ADBB8EDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xpath.Demo", "..\Xpath.Demo\Xpath.Demo.csproj", "{48951089-BBD8-4D03-B3E6-EFDD047A5736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pentagram.Demo", "Pentagram.Demo\Pentagram.Demo.csproj", "{E3570B0D-5339-4443-9413-30538B99C4F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstellationProjArchitec", "ConstellationProjArchitec\ConstellationProjArchitec.csproj", "{02C0A4AE-808D-444F-A1EC-6357E55BF2B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFBinding.Demo", "WPFBinding.Demo\WPFBinding.Demo.csproj", "{34F2D55D-A964-4ED9-BDF5-42F04868F6FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstellationProjArchitec.Demo", "ConstellationProjArchitec.Demo\ConstellationProjArchitec.Demo.csproj", "{1994068A-673E-4913-A0C0-6B83693F97E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserControlDependencyProperty", "UserControlDependencyProperty\UserControlDependencyProperty.csproj", "{730AB42C-8CEF-4FAE-A491-609E8098F7E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4965D64-80ED-4EBD-8519-24C0929B6419}.Debug|x86.ActiveCfg = Debug|x86
+		{E4965D64-80ED-4EBD-8519-24C0929B6419}.Debug|x86.Build.0 = Debug|x86
+		{E4965D64-80ED-4EBD-8519-24C0929B6419}.Release|x86.ActiveCfg = Release|x86
+		{E4965D64-80ED-4EBD-8519-24C0929B6419}.Release|x86.Build.0 = Release|x86
+		{E4E392F2-083E-4A1B-ADC5-1558ADBB8EDD}.Debug|x86.ActiveCfg = Debug|x86
+		{E4E392F2-083E-4A1B-ADC5-1558ADBB8EDD}.Debug|x86.Build.0 = Debug|x86
+		{E4E392F2-083E-4A1B-ADC5-1558ADBB8EDD}.Release|x86.ActiveCfg = Release|x86
+		{E4E392F2-083E-4A1B-ADC5-1558ADBB8EDD}.Release|x86.Build.0 = Release|x86
+		{48951089-BBD8-4D03-B3E6-EFDD047A5736}.Debug|x86.ActiveCfg = Debug|x86
+		{48951089-BBD8-4D03-B3E6-EFDD047A5736}.Debug|x86.Build.0 = Debug|x86
+		{48951089-BBD8-4D03-B3E6-EFDD047A5736}.Release|x86.ActiveCfg = Release|x86
+		{48951089-BBD8-4D03-B3E6-EFDD047A5736}.Release|x86.Build.0 = Release|x86
+		{E3570B0D-5339-4443-9413-30538B99C4F8}.Debug|x86.ActiveCfg = Debug|x86
+		{E3570B0D-5339-4443-9413-30538B99C4F8}.Debug|x86.Build.0 = Debug|x86
+		{E3570B0D-5339-4443-9413-30538B99C4F8}.Release|x86.ActiveCfg = Release|x86
+		{E3570B0D-5339-4443-9413-30538B99C4F8}.Release|x86.Build.0 = Release|x86
+		{02C0A4AE-808D-444F-A1EC-6357E55BF2B9}.Debug|x86.ActiveCfg = Debug|x86
+		{02C0A4AE-808D-444F-A1EC-6357E55BF2B9}.Debug|x86.Build.0 = Debug|x86
+		{02C0A4AE-808D-444F-A1EC-6357E55BF2B9}.Release|x86.ActiveCfg = Release|x86
+		{02C0A4AE-808D-444F-A1EC-6357E55BF2B9}.Release|x86.Build.0 = Release|x86
+		{34F2D55D-A964-4ED9-BDF5-42F04868F6FB}.Debug|x86.ActiveCfg = Debug|x86
+		{34F2D55D-A964-4ED9-BDF5-42F04868F6FB}.Debug|x86.Build.0 = Debug|x86
+		{34F2D55D-A964-4ED9-BDF5-42F04868F6FB}.Release|x86.ActiveCfg = Release|x86
+		{34F2D55D-A964-4ED9-BDF5-42F04868F6FB}.Release|x86.Build.0 = Release|x86
+		{1994068A-673E-4913-A0C0-6B83693F97E3}.Debug|x86.ActiveCfg = Debug|x86
+		{1994068A-673E-4913-A0C0-6B83693F97E3}.Debug|x86.Build.0 = Debug|x86
+		{1994068A-673E-4913-A0C0-6B83693F97E3}.Release|x86.ActiveCfg = Release|x86
+		{1994068A-673E-4913-A0C0-6B83693F97E3}.Release|x86.Build.0 = Release|x86
+		{730AB42C-8CEF-4FAE-A491-609E8098F7E4}.Debug|x86.ActiveCfg = Debug|x86
+		{730AB42C-8CEF-4FAE-A491-609E8098F7E4}.Debug|x86.Build.0 = Debug|x86
+		{730AB42C-8CEF-4FAE-A491-609E8098F7E4}.Release|x86.ActiveCfg = Release|x86
+		{730AB42C-8CEF-4FAE-A491-609E8098F7E4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
